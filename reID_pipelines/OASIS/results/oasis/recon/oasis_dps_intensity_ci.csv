@@ -1,0 +1,3 @@
+dataset,method,condition,ssim_mean,ssim_ci_lower,ssim_ci_upper,psnr_mean,psnr_ci_lower,psnr_ci_upper,n_samples
+OASIS,DPS,GS0,0.3990225,0.38142508,0.41982183,5.9393144,5.796964,6.1120543,50
+OASIS,DPS,GS50,0.70952886,0.69356835,0.7253526,12.091235,11.718878,12.427916,50

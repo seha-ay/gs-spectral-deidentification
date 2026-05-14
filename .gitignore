@@ -1,0 +1,38 @@
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large ML model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Large serialized intermediate files
+# Keep this commented for now because some result .pkl files are under 100 MB.
+# Uncomment later if you want a cleaner lightweight repo.
+# *.pkl
+# *.pickle
+
+# Large array/data files
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# OS files
+.DS_Store
+Thumbs.db

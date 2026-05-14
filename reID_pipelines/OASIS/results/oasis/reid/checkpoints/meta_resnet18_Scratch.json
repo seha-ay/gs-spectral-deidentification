@@ -1,0 +1,20 @@
+{
+  "experiment_id": "resnet18_Scratch",
+  "stage": "gs_50pct_complete",
+  "timestamp": "2026-01-14T08:06:51.432195",
+  "total_results": 14,
+  "GLOBAL_SEED": 1337,
+  "N_REPEATS": 5,
+  "EPOCHS": 30,
+  "LR": 0.0005,
+  "BATCH_SIZE": 16,
+  "GS_ITERATIONS": 50,
+  "MASKING_LEVELS": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ]
+}

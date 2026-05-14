@@ -1,0 +1,7 @@
+dataset,method,condition,model,rank1_mean,rank1_ci_lower,rank1_ci_upper,rank5_mean,rank5_ci_lower,rank5_ci_upper
+OASIS,DPS,RAW,ResNet-18,0.28,0.16,0.4,0.42,0.28,0.56
+OASIS,DPS,RAW,DenseNet-121,0.24,0.12,0.36,0.4,0.26,0.54
+OASIS,DPS,GS0,ResNet-18,0.02,0.0,0.06,0.06,0.0,0.14
+OASIS,DPS,GS0,DenseNet-121,0.0,0.0,0.0,0.04,0.0,0.1
+OASIS,DPS,GS50,ResNet-18,0.02,0.0,0.06,0.08,0.02,0.16
+OASIS,DPS,GS50,DenseNet-121,0.0,0.0,0.0,0.02,0.0,0.06
